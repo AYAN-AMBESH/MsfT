@@ -37,7 +37,7 @@ const Searchbox = styled.div`
 `;
 
 const Input = styled.input`
-  width: 100%; /* Full width */
+  width: 50%; /* Full width */
   max-width: 800px; /* Max width for larger screens */
   padding: 10px 12px 10px 40px; /* Padding for the icon */
   border: 1px solid #ccc; /* Light gray border */
